@@ -24,7 +24,7 @@
 -Update a user and encrypting his password
 -Delete a user
 -Find all users
--Login with a user
+-Login uses JWT 
 
 ## models
 ### product.model.js
