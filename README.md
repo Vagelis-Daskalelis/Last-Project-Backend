@@ -15,27 +15,27 @@
 
 ## controllers
 --product.controller.js
-  Create a product
-  Update a product
-  Delete a product
-  Find all products
+-Create a product
+-Update a product
+-Delete a product
+-Find all products
 --user.controller.js
-  Create a user and encrypting his password
-  Update a user and encrypting his password
-  Delete a user
-  Find all users
-  Login with a user
+-Create a user and encrypting his password
+-Update a user and encrypting his password
+-Delete a user
+-Find all users
+-Login with a user
 
 ## models
 --product.model.js
-  product
-  cost
-  description
-  quantity
+-product
+-cost
+-description
+-quantity
 --user.model.js
-  username
-  password
-  name
-  surname
-  email
+-username
+-password
+-name
+-surname
+-email
   
