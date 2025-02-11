@@ -14,12 +14,12 @@
 --swagger.js
 
 ## controllers
---product.controller.js
+###product.controller.js
 -Create a product
 -Update a product
 -Delete a product
 -Find all products
---user.controller.js
+###user.controller.js
 -Create a user and encrypting his password
 -Update a user and encrypting his password
 -Delete a user
@@ -27,12 +27,12 @@
 -Login with a user
 
 ## models
---product.model.js
+###product.model.js
 -product
 -cost
 -description
 -quantity
---user.model.js
+###user.model.js
 -username
 -password
 -name
